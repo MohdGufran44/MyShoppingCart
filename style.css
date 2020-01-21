@@ -1,0 +1,31 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
+/*#dt{*/
+/*    margin-left: 35%;*/
+/*}*/
+
+.search-container{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    height: 80px;
+    width:90%;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 50px;
+    background-color: cornflowerblue;
+}
+
+.ee{
+    height: 300px;
+    width: 300px;
+    float: left;
+    overflow: hidden;
+    padding-left: 50px;
+}
+.eld{
+   text-align: center;
+    width: 300px;
+}
